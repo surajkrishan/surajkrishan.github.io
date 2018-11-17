@@ -1,2 +1,2 @@
-# .github.io
-My Personal Portfolio Website.
+# surajkrishan.github.io
+My Portfolio Website.
