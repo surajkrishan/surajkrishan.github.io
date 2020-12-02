@@ -7,12 +7,12 @@
         },
         {
             "id": 2,
-            "productName": "Iphone 12 Prox Max",
+            "productName": "Iphone 12",
             "quantity": 10
         },
         {
             "id": 3,
-            "productName": "Macbook Pro 13",
+            "productName": "Macbook 13",
             "quantity": 10
         }
     ]
