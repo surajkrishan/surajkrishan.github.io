@@ -8,7 +8,7 @@
     let massPopChart = new Chart(myChart, {
       type: 'radar', // bar, horizontalBar, pie, line, doughnut, radar, polarArea
       data: {
-        labels: ['0', 'HTML5', 'CSS3', 'Bootstrap', 'JavaScript', 'Angualr', 'React', 'Node.js', 'Express.js','MongoDB', 'Shell Scripting', 'Google Cloud', 'Microsoft Azure Cloud', 'AWS','Heroku Cloud', '& many more'],
+        labels: ['0', 'JavaScript', 'Typescript', 'React', 'Node.js', 'Express.js','GraphQL', 'REST API', 'MongoDB', 'Bash Scripting','Azure Cloud', 'AWS','Serverlessd', '& many more'],
         datasets: [{
           label: 'Skills',
           data: [
